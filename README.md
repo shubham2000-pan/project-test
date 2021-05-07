@@ -9,7 +9,7 @@
 
 ## About Project
 
-- Deploy the Laravel framework (minimum version 8)
+- Deploy the Laravel framework (minimum version 7)
 - Make entities (tables): User, Product , card.
 - Implement CRUD.
 - The user must be able to upload photos.
